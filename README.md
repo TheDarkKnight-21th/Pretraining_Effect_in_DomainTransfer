@@ -1,4 +1,4 @@
-# [Delving into Pre-training for Domain Transfer: A Broad Study of Pre-training for Domain Generalization and Domain Adaptation (IJCV 2026)]
+# Delving into Pre-training for Domain Transfer: A Broad Study of Pre-training for Domain Generalization and Domain Adaptation (IJCV 2026)
 Jungmyung Wi, Youngkyun Jang, Dujin Lee, Myeongseok Nam, and Donghyun Kim.
 #### [[Paper]](https://link.springer.com/article/10.1007/s11263-025-02590-5)
 
