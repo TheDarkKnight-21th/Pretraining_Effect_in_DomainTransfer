@@ -91,7 +91,7 @@ default ex) bash ./run_hyperparam_single.sh ../dataset/imagenet21k_train/train d
 wds     ex) bash ./run_hyperparam_single.sh ../dataset/imagenet-w21-wds wds/ ../dataset/da 1e-3 1e-5 0 1024
 ```
 
-# 실행 전 유의사항
+# Pre-executive precautions
 
 * Running run.sh will automatically proceed with pre-training and fine-tuning. The hyperparameters provided are the exact ones I used in my actual experiments. Therefore, you do not need to change them.
 
